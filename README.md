@@ -1,8 +1,8 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name: K NISHAL**
 
-**Register Number:**
+**Register Number: 2305001021**
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
@@ -81,6 +81,16 @@ Enter the starting node for BFS: A
 ### Sample Output:
 
 BFS Traversal Order: ['A', 'B', 'C']
+### Input:
+
+![WhatsApp Image 2025-09-08 at 14 27 54_ed2c8a21](https://github.com/user-attachments/assets/71fce49d-814c-4ec0-8596-9813beb49ca9)
+
+
+### Output:
+![WhatsApp Image 2025-09-08 at 14 28 40_0f5b7bbd](https://github.com/user-attachments/assets/a26d9194-c8b7-47f2-9599-f3a42ce34a2a)
+
+
 
 
 ### Result:
+Thus the program to implement bredth first search of a traversal graph has been executed successfully.
